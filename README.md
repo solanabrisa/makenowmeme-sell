@@ -53,8 +53,8 @@ solana-sell/
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-username/solana-token-sell.git
-cd solana-token-sell
+git clone https://github.com/solanabrisa/makenowmeme-sell.git
+cd makenowmeme-sell
 ```
 
 2. **Install dependencies:**
@@ -75,7 +75,7 @@ PRIVATE_KEY_BASE58=your_base58_secret_key_here
 
 Update:
 - `ACCOUNT_ADDRESSES` → Insert your wallet/token account details
-- `HUMAN_READABLE_AMOUNT` → Tokens you want to sell
+- `HUMAN_READABLE_AMOUNT` → Amounts of the token you want to sell
 
 ---
 
