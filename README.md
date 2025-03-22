@@ -17,7 +17,7 @@ In such cases, users can no longer interact through the website and must use on-
 - Sell tokens purchased on makenow.meme via the smart contract
 - Uses Anchor-compatible IDL to interact with the on-chain program
 - Direct execution from Node.js (no browser required)
-- Full control of wallet and accounts via `.env`
+- Full control of wallet via `.env`
 - Built-in error handling and logging
 
 ---
