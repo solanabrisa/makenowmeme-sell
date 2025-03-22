@@ -29,8 +29,12 @@ solana-sell/
 ├── .env.example         # Environment variable template
 ├── idl.json             # Anchor IDL file of the makenow.meme smart contract (included)
 ├── sell.js              # Main JavaScript script to sell tokens
-└── README.md
+├── package.json         # Node.js dependencies and scripts
+├── package-lock.json    # Dependency lock file
+├── README.md            # Project documentation
+└── LICENSE              # License file (MIT)
 ```
+
 
 ---
 
